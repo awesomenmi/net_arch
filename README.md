@@ -1,5 +1,7 @@
 # Архитектура сетей
 
+![alt-текст](https://github.com/awesomenmi/net_arch/blob/master/net_diagramm.png)
+
 ## Сеть office1
 
 - 192.168.2.0/26 - dev
