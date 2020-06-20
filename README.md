@@ -7,7 +7,7 @@
    - hosts count: 62
    - broadcast: 192.168.2.63
 - 192.168.2.64/26 - test servers
-   - hosts range: 192.168.2.66-192.168.2.126
+   - hosts range: 192.168.2.65-192.168.2.126
    - hosts count: 62
    - broadcast: 192.168.2.127
 - 192.168.2.128/26 - managers
@@ -17,7 +17,7 @@
 - 192.168.2.192/26 - office hardware
    - hosts range: 192.168.2.193-192.168.2.254
    - hosts count: 62
-   - broadcast: 192.168.2.254
+   - broadcast: 192.168.2.255
 
 ## Сеть office2
 
